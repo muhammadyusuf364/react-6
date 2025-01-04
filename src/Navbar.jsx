@@ -12,7 +12,7 @@ function NavbarC() {
       </div>
       <Navbar.Collapse>
         <Navbar.Link href="#" active>
-          Home
+          Home page
         </Navbar.Link>
         <Navbar.Link href="#">About</Navbar.Link>
         <Navbar.Link href="#">Services</Navbar.Link>
